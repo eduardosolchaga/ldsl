@@ -1,5 +1,5 @@
 //
-// gcc ldsl.c -o ldsl
+// gcc ldsl.c -o ldsl -Wall
 // ./ldsl
 
 #include <stdio.h>
